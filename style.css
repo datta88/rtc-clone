@@ -1,0 +1,436 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.main-all
+{
+    background-color: #f6f8fa;
+}
+
+.div-1 {
+    height: 43px;
+    width: 100%;
+    background-color: #ffebcd;
+}
+
+.par-1 {
+    margin-left: 190px;
+    padding: 10px;
+}
+
+.span-1 {
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 1px solid #b30000;
+}
+
+.span-size-2 {
+    font-size: 15px;
+}
+
+.call-now {
+    font-size: 13px;
+}
+
+.div-2 {
+    height: 43px;
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    padding-top: 10px;
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 2px 9px 1px rgb(180, 176, 176);
+
+}
+
+.img-rtc-2 {
+    height: 30px;
+    margin-left: 60px;
+}
+
+.span-text {
+    margin-bottom: 30px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.span-text2 {
+    margin-left: 200px;
+    margin-top: 8px;
+    color: #a4a4a4;
+}
+
+.div-3 {
+    background-color: #f6f8fa;
+    display: flex;
+}
+.button-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.img-header-3 {
+    height: 350px;
+    margin-left: 130px;
+}
+
+.par-3 {
+    margin-top: 25px;
+    font-size: 20px;
+    color: #a4a4a4;
+    margin-left: 53px;
+
+}
+
+
+.span-3 {
+    color: black;
+    font-size: 34px;
+}
+
+.span-3-2 {
+    margin-top: 100px;
+}
+
+.btn-3-1 {
+    height: 30px;
+    width: 147px;
+    display: flex;
+    padding-top: 5px;
+    background-color: #212529;
+    border-radius: 10px;
+    color: white;
+    font-size: 15PX;
+    padding-right: 1px;
+    border: none;
+   
+}
+
+.btn-3-2 {
+    height:30px;
+    width: 90px;
+    background-color: #ffc107;
+    border-radius: 5px;
+    display: flex;
+    color: #212529;
+    font-size: 15PX;
+    padding-top:6px;
+    padding-left:6px;
+    border: none;
+    
+}
+
+
+.img-btn-3-1 {
+    margin-bottom: 20px !important;
+    height: 30px;
+}
+
+.div-4
+{
+    height: auto;
+    width: 100%;
+    background-color: #f6f8fa;
+}
+
+.bolt-4-1
+{
+    color: #4285f4;
+    font-size: 24px;
+    margin-left: 70px;
+
+}
+.par-4-1
+{
+    font-size: 28px;
+    margin-left: 70px;
+}
+
+.div-box-4
+{
+    height: 80px;
+    width: 280px;
+    border: #e2e4e8 solid 1px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 70px;
+    padding: 2px;
+    display: inline-block;
+    
+}
+.meet-image-4
+{
+    height: 40px;
+border:#e2e4e8 solid 1px ;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 10px;
+}
+.box{
+    display: flex;
+}
+
+.div-box-4-2
+{
+    height: 100px;
+    width:275px ;
+    border: #e2e4e8 solid 1px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 70px;
+    padding: 2px;
+}
+.folder-image-4
+{
+    height: 40px;
+border:#e2e4e8 solid 1px ;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 10px;
+}
+.lerning-image-4-2
+{
+    height: 40px;
+border:#e2e4e8 solid 1px ;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.doubt-image-4-2{
+    height: 40px;
+    width:50px;
+border:#e2e4e8 solid 1px ;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.margin-4{
+    margin-left: 20px;
+}
+.div-4-main
+{
+    display:inline-block ;  
+}
+.parent-chiled-image
+{
+    height: 300px;
+}
+.div-4-main-2
+{
+    display:inline-block ;
+}
+
+
+
+
+
+
+.div-container-1
+{
+    margin-left: 500px;
+}
+
+.div-container-2
+{
+    margin-left: 50px;
+}
+
+.card-con-1
+{
+    border: #e1e3e5 1px solid;
+    height: 430px;
+    width: 290px;
+    background-color: #ffffff;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    border-bottom:solid 5px #4285f4;
+    vertical-align: middle;
+}
+
+.img-5
+{
+    height: 158px;
+    padding: 4px;
+    border-radius: 8px;
+}
+
+.calender-5
+{
+    margin-left: 8px;
+    height: 25px;
+}
+.a{
+    margin-left: 10px;
+}
+.par-text-font-5
+{
+    font-size: 18px;
+}
+.price-con
+{
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 70px;
+    font-size: 22px;
+    border-bottom:  3px double #27ae60 ;
+}
+.btn-5
+{
+    height: 30px;
+    width: 90px;
+    background-color: #212529;
+    color: white;
+    border-radius: 4px;
+    margin-left:94px;
+    margin-top: 10px;
+
+}
+.par-con-6
+{
+    font-size: 40px;
+    margin-left: 480px;
+    margin-top: 50px;
+}
+.par-con-6-1
+{
+    font-size: 25px;
+    margin-left: 150px;
+}
+.div-main-6-1
+{
+    height:340px;
+    width: 220px;
+    border: #212529 solid 1px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  background-color: #ffffff;
+    border-color: #e1e3e5;
+    border-radius: 10px;
+    border-bottom:  solid #000000 4px;
+ display: inline-block;
+}
+.div-main-6-1:hover
+{
+
+}
+
+.image-6
+{
+    height:215px;
+    width: 205px;
+    padding: 10px;
+  
+}
+.spece-6
+{
+    margin-left: 60px;
+}
+.spece-6-1
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.contener-6
+{
+    margin-left: 50px;
+}
+
+.par-7-1
+{
+    
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 40px;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.div-7-box-1-main
+{
+  display: inline-block; 
+  margin-bottom: 50px;
+}
+.div-7-box-1
+{
+    height: 95px;
+    width: 95px;
+    border: #dddfe1 solid 1px;
+    margin-left: 130px;
+    display: inline-block;
+    margin-top: 70px;
+    background-color: #f6f8fa;
+    box-shadow: #dadcde 0px 0px 15px 1px;
+  border-radius: 50%;
+}
+.img-7-1
+{
+    height:55px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.div-8{
+    height: 290px;
+    width: 100%;
+    background-color: #00121b;
+    margin-bottom: 10px;
+}
+.div-8-card
+{
+   
+    height: 260px;
+    width: 235px;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+}
+.rtc-logo-8
+{
+    height:40px;
+}
+.par-8-1
+{
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 10px;
+}
+.par-8-2
+{
+    text-align:justify ; 
+    font-family: 'Nunito Sans', sans-serif;
+}
+.par-8-2-2
+{
+margin-left: 10px;
+font-size: 11px;
+font-family: 'Nunito Sans', sans-serif;
+}
+    .location-img-8
+    {
+        height: 20px;
+        border-radius: 50%;
+    }
+.call-8
+{
+    color: white;
+    text-decoration: none;
+}
+
+.png-8-logo
+{
+    height: 20px;
+    padding: 10px;
+}
+.a{
+    margin-left: 40px;
+}
+.icon-card-6
+{
+    margin-left: 110px;
+}
